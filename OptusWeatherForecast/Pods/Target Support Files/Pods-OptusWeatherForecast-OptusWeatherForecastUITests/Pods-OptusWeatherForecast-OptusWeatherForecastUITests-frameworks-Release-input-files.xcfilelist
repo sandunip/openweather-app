@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OptusWeatherForecast-OptusWeatherForecastUITests/Pods-OptusWeatherForecast-OptusWeatherForecastUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
